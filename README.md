@@ -1,3 +1,5 @@
+##Bem-vindo(a) ao meu perfil!
+
 <div>
   <a href="https://github.com/FernandoMrtns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoMrtns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href = "mailto:frnd.ti04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
